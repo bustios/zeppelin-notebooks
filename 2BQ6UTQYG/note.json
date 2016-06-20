@@ -1,8 +1,8 @@
 {
   "paragraphs": [
     {
-      "text": "%md\n\n## World Development Indicators\n\n### Table of contents\n\n1. Introduction\n2. Requirements\n3. Objective\n5. Getting and preparing the data\n6. Exploratory analysis\n\n\n### 1. Introduction\n\nThe [World Development Indicators][1] are a collection of data about the global development, collected from many sources and made available by the [World Bank][2]. In addition to this dataset, there are many [others][3] publicly available by the World Bank\u0027s Open Data initiative. In this notebook, we want to show some indicators in an easy way through maps and interactive graphics using [R][4] and some well known packages to plot geographical data.\n\n\n### 2. Requirements\n\nTo be able to execute the code in this notebook, it is necessary to have installed R and the next packages:\n\n- rworldmap\n- ggplot2\n- maps\n- reshape2\n- googleVis\n\nIf you do not have these packages, you can execute the next command in your R session to install them:\n\n    install.packages(c(\"rworldmap\", \"ggplot2\", \"maps\", \"reshape2\", \"googleVis\"), repos \u003d \"http://cran.r-project.org\")\n\n### 3. Objective\n\nThe objective of this notebook is to show show some indicators of the World Development Indicators dataset in an easy way through maps and interactive graphics using [R][4] as the main programming language and some well known packages to plot geographical data. In order to do that, we will have to do some [data munging][5].\n\n### 4. Getting and preparing the data\n\nTODO\n\n[1]: http://data.worldbank.org/data-catalog/world-development-indicators\n[2]: http://www.worldbank.org/\n[3]: http://datacatalog.worldbank.org/\n[4]: https://www.r-project.org/\n[5]: https://en.wikipedia.org/wiki/Data_wrangling",
-      "dateUpdated": "Jun 20, 2016 6:17:00 AM",
+      "text": "%md\n\n## World Development Indicators\n\nby Paul Bustios\n\n### Table of contents\n\n1. Introduction\n2. Requirements\n3. Objective\n5. Getting and preparing the data\n6. Exploratory analysis\n\n\n### 1. Introduction\n\nThe [World Development Indicators][1] are a collection of data about the global development, collected from many sources and made available by the [World Bank][2]. In addition to this dataset, there are many [others][3] publicly available by the World Bank\u0027s Open Data initiative. In this notebook, we want to show some indicators in an easy way through maps and interactive graphics using [R][4] and some well known packages to plot geographical data.\n\n\n### 2. Requirements\n\nTo be able to execute the code in this notebook, it is necessary to have installed R and the next packages:\n\n- rworldmap\n- ggplot2\n- maps\n- reshape2\n- googleVis\n\nIf you do not have these packages, you can execute the next command in your R session to install them:\n\n    install.packages(c(\"rworldmap\", \"ggplot2\", \"maps\", \"reshape2\", \"googleVis\"), repos \u003d \"http://cran.r-project.org\")\n\n### 3. Objective\n\nThe objective of this notebook is to show show some indicators of the World Development Indicators dataset in an easy way through maps and interactive graphics using [R][4] as the main programming language and some well known packages to plot geographical data. In order to do that, we will have to do some [data munging][5].\n\n### 4. Getting and preparing the data\n\nTODO\n\n[1]: http://data.worldbank.org/data-catalog/world-development-indicators\n[2]: http://www.worldbank.org/\n[3]: http://datacatalog.worldbank.org/\n[4]: https://www.r-project.org/\n[5]: https://en.wikipedia.org/wiki/Data_wrangling",
+      "dateUpdated": "Jun 20, 2016 6:33:05 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -16,7 +16,7 @@
         },
         "enabled": true,
         "editorMode": "ace/mode/scala",
-        "editorHide": true
+        "editorHide": false
       },
       "settings": {
         "params": {},
@@ -72,7 +72,7 @@
     },
     {
       "text": "%md\n\nRead the data using the **read.csv** function and print the summary of the data to ensure that it was loaded. Our dataset is composed of 248 indicators from 1960 to 2015. ",
-      "dateUpdated": "Jun 20, 2016 6:17:09 AM",
+      "dateUpdated": "Jun 20, 2016 6:33:57 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -175,7 +175,7 @@
     },
     {
       "text": "%md\nNow, we are going to select the indicators of interest and remove the object **data** to release memory.",
-      "dateUpdated": "Jun 19, 2016 9:44:30 PM",
+      "dateUpdated": "Jun 20, 2016 6:34:00 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -187,7 +187,8 @@
           "groups": [],
           "scatter": {}
         },
-        "enabled": true
+        "enabled": true,
+        "editorHide": true
       },
       "settings": {
         "params": {},
