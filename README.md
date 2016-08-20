@@ -1,8 +1,6 @@
-%md
-
 # Zeppelin notebooks
 
-This repository contents a set of notebooks that I developed using [Zeppelin](http://zeppelin.apache.org), as part of my participation on GSoC 2016. If you've noticed any errors or would like to contribute to this repository, please don't hesitate to contact me.
+This repository contents a set of notebooks that I developed using [Apache Zeppelin](http://zeppelin.apache.org), as part of my participation on GSoC 2016. If you've noticed any errors or would like to contribute to this repository, please don't hesitate to contact me.
 
 ## License
 
@@ -16,7 +14,7 @@ All the source code in the notebooks is licensed under the [Apache License 2.0](
 - [Source code](https://raw.githubusercontent.com/bustios/zeppelin-notebooks/master/notebook-01/note.json) on Github.
 - [View](https://www.zeppelinhub.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvOThlYTU4OTczMTc5NGYyNThmNjQ2YmVlM2Q3ODI3ZTYvbm90ZS5qc29u) on ZeppelinHub.
 
-![image.jpg](https://db.tt/e7tqLyxo)
+![image.jpg](/images/note01.jpg?raw=true)
 
 -
 
@@ -26,7 +24,7 @@ All the source code in the notebooks is licensed under the [Apache License 2.0](
 - [Source code](https://raw.githubusercontent.com/bustios/zeppelin-notebooks/master/notebook-02/note.json) on Github.
 - [View](https://www.zeppelinhub.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvZjhlZTE1Zjk1MGQ1NDQ4MDg2OTUwMWYyOTkwZWNlYzMvbm90ZS5qc29u) on ZeppelinHub.
 
-![image.gif](https://db.tt/GcZVJzhS)
+![image.gif](/images/note02.gif?raw=true)
 
 -
 
@@ -36,4 +34,4 @@ All the source code in the notebooks is licensed under the [Apache License 2.0](
 - [Source code](https://raw.githubusercontent.com/bustios/zeppelin-notebooks/master/notebook-03/note.json) on Github.
 - [View](https://www.zeppelinhub.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvYmI0Y2EwNjVkMTI1NDY2Y2EzNTIzNThiZjViYzIxOWQvbm90ZS5qc29u) on ZeppelinHub.
 
-
+![image.jpg](/images/note03.jpg?raw=true)
