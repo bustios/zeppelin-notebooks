@@ -74,6 +74,7 @@
       "dateStarted": "Aug 20, 2016 5:05:10 PM",
       "dateFinished": "Aug 20, 2016 5:05:26 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -188,6 +189,7 @@
       "dateStarted": "Aug 20, 2016 5:05:58 PM",
       "dateFinished": "Aug 20, 2016 5:06:07 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -264,6 +266,7 @@
       "dateStarted": "Aug 20, 2016 5:06:15 PM",
       "dateFinished": "Aug 20, 2016 5:06:15 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -340,6 +343,7 @@
       "dateStarted": "Aug 20, 2016 5:06:20 PM",
       "dateFinished": "Aug 20, 2016 5:06:20 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -650,6 +654,7 @@
       "dateStarted": "Aug 20, 2016 5:06:34 PM",
       "dateFinished": "Aug 20, 2016 5:06:34 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -726,6 +731,7 @@
       "dateStarted": "Aug 20, 2016 5:06:46 PM",
       "dateFinished": "Aug 20, 2016 5:06:47 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -764,6 +770,7 @@
       "dateStarted": "Aug 20, 2016 5:06:49 PM",
       "dateFinished": "Aug 20, 2016 5:06:50 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -840,6 +847,7 @@
       "dateStarted": "Aug 20, 2016 5:06:58 PM",
       "dateFinished": "Aug 20, 2016 5:06:58 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -878,6 +886,7 @@
       "dateStarted": "Aug 20, 2016 5:07:02 PM",
       "dateFinished": "Aug 20, 2016 5:07:02 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -915,6 +924,7 @@
       "dateStarted": "Aug 20, 2016 5:07:03 PM",
       "dateFinished": "Aug 20, 2016 5:07:03 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -953,6 +963,7 @@
       "dateStarted": "Aug 20, 2016 5:07:07 PM",
       "dateFinished": "Aug 20, 2016 5:07:07 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -990,6 +1001,7 @@
       "dateStarted": "Aug 20, 2016 5:07:08 PM",
       "dateFinished": "Aug 20, 2016 5:07:08 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -1028,6 +1040,7 @@
       "dateStarted": "Aug 20, 2016 5:17:15 PM",
       "dateFinished": "Aug 20, 2016 5:17:30 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -1066,6 +1079,7 @@
       "dateStarted": "Aug 20, 2016 5:17:34 PM",
       "dateFinished": "Aug 20, 2016 5:17:56 PM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
