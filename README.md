@@ -1,4 +1,4 @@
-[![Apache License 2.0](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![Apache License 2.0](http://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 # Zeppelin notebooks
 
