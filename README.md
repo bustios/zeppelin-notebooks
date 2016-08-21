@@ -8,7 +8,7 @@ If you just want to take a look at the notebooks, you can view them on ZeppelinH
 
 ## License
 
-All the source code in the notebooks is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+All the source code in the notebooks is licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Notebooks
 
@@ -20,7 +20,7 @@ All the source code in the notebooks is licensed under the [Apache License 2.0](
 
 ![image.jpg](/images/note01.jpg?raw=true)
 
--
+<br>
 
 ### 2. World Development Indicators
 
@@ -30,7 +30,7 @@ All the source code in the notebooks is licensed under the [Apache License 2.0](
 
 ![image.gif](/images/note02.gif?raw=true)
 
--
+<br>
 
 ### 3. Machine learning on Titanic disaster
 
@@ -39,3 +39,18 @@ All the source code in the notebooks is licensed under the [Apache License 2.0](
 - [View](https://www.zeppelinhub.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvYmI0Y2EwNjVkMTI1NDY2Y2EzNTIzNThiZjViYzIxOWQvbm90ZS5qc29u) on ZeppelinHub.
 
 ![image.jpg](/images/note03.jpg?raw=true)
+
+<br>
+
+Additionally to these notebboks, I reported the following issues on Apache JIRA:
+
+- [ZEPPELIN-1244](https://issues.apache.org/jira/browse/ZEPPELIN-1244): %python.sql is not initialized properly by default
+- [ZEPPELIN-1255](https://issues.apache.org/jira/browse/ZEPPELIN-1255): z.show() does not display Pandas DataFrame with non-string values
+- [ZEPPELIN-1261](https://issues.apache.org/jira/browse/ZEPPELIN-1261): z.show() height parameter doesn't take effect
+- [ZEPPELIN-1327](https://issues.apache.org/jira/browse/ZEPPELIN-1327): Height parameter in z.show python interpreter does not take effect for PNG images
+- [ZEPPELIN-1328](https://issues.apache.org/jira/browse/ZEPPELIN-1328): z.show in python interpreter does not display PNG images in python 3
+
+and made these [commits](https://github.com/apache/zeppelin/commits/master?author=bustios) on Zeppelin repository:
+
+- [[ZEPPELIN-1255]](https://github.com/apache/zeppelin/commit/6f867ceb0c2b93ecca3be8a16c155547182eb0dc): Add cast to string in z.show() for Pandas DataFrame
+- [[ZEPPELIN-1261]](https://github.com/apache/zeppelin/commit/9eac20d08a2905af178173ccb3aa5cc105f11bc5): Bug fix in z.show() for matplotlib graphs
