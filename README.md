@@ -49,6 +49,7 @@ Additionally to these notebboks, I reported the following issues on Apache JIRA:
 - [ZEPPELIN-1261](https://issues.apache.org/jira/browse/ZEPPELIN-1261): z.show() height parameter doesn't take effect
 - [ZEPPELIN-1327](https://issues.apache.org/jira/browse/ZEPPELIN-1327): Height parameter in z.show python interpreter does not take effect for PNG images
 - [ZEPPELIN-1328](https://issues.apache.org/jira/browse/ZEPPELIN-1328): z.show in python interpreter does not display PNG images in python 3
+- [ZEPPELIN-1358](https://issues.apache.org/jira/browse/ZEPPELIN-1358): Displaying Pandas DataFrame index in table using z.show()
 
 and made these [commits](https://github.com/apache/zeppelin/commits/master?author=bustios) on Zeppelin repository:
 
