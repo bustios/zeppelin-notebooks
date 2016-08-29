@@ -51,7 +51,4 @@ Additionally to these notebboks, I reported the following issues on Apache JIRA:
 - [ZEPPELIN-1328](https://issues.apache.org/jira/browse/ZEPPELIN-1328): z.show in python interpreter does not display PNG images in python 3
 - [ZEPPELIN-1358](https://issues.apache.org/jira/browse/ZEPPELIN-1358): Displaying Pandas DataFrame index in table using z.show()
 
-and made these [commits](https://github.com/apache/zeppelin/commits/master?author=bustios) on Zeppelin repository:
-
-- [[ZEPPELIN-1255]](https://github.com/apache/zeppelin/commit/6f867ceb0c2b93ecca3be8a16c155547182eb0dc): Add cast to string in z.show() for Pandas DataFrame
-- [[ZEPPELIN-1261]](https://github.com/apache/zeppelin/commit/9eac20d08a2905af178173ccb3aa5cc105f11bc5): Bug fix in z.show() for matplotlib graphs
+and made these [commits](https://github.com/apache/zeppelin/commits/master?author=bustios) on Zeppelin repository.
