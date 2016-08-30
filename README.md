@@ -2,7 +2,7 @@
 
 # Zeppelin notebooks
 
-This repository contains a set of notebooks I developed using [Apache Zeppelin](http://zeppelin.apache.org), as part of my participation on Google Summer of Code 2016. If you've noticed any errors or would like to contribute to this repository, please don't hesitate to contact me submitting an issue on GitHub or forking the repository and making a pull request.
+This repository contains a set of notebooks I developed using [Apache Zeppelin](http://zeppelin.apache.org), as part of my participation in [Google Summer of Code 2016](https://summerofcode.withgoogle.com/projects/#5094334298849280). If you've noticed any errors or would like to contribute to this repository, please don't hesitate to contact me submitting an issue on GitHub or forking the repository and making a pull request.
 
 If you just want to take a look at the notebooks, you can view them on ZeppelinHub [viewer](https://www.zeppelinhub.com/viewer).
 
