@@ -14,9 +14,9 @@ All the source code in the notebooks is licensed under [Apache License 2.0](http
 
 ### 1. Classification of motor imagery EEG signals
 
-- The objective of this notebook is to present a simple approach to classify left and right hand motor imagery EEG signals.
+- The objective of this notebook is to present a simple approach to classify left and right hand motor imagery tasks recorded in an electroencephalogram.
 - [Source code](https://raw.githubusercontent.com/bustios/zeppelin-notebooks/master/notebook-01/note.json) on Github.
-- [View](https://www.zeppelinhub.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvOThlYTU4OTczMTc5NGYyNThmNjQ2YmVlM2Q3ODI3ZTYvbm90ZS5qc29u) on ZeppelinHub.
+- [View](https://www.zepl.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvOThlYTU4OTczMTc5NGYyNThmNjQ2YmVlM2Q3ODI3ZTYvbm90ZS5qc29u) on ZeppelinHub.
 
 ![image.jpg](/images/note01.jpg?raw=true)
 
@@ -26,7 +26,7 @@ All the source code in the notebooks is licensed under [Apache License 2.0](http
 
 - This notebook shows some indicators of the World Development Indicators dataset in an easy way through maps and interactive graphics using R.
 - [Source code](https://raw.githubusercontent.com/bustios/zeppelin-notebooks/master/notebook-02/note.json) on Github.
-- [View](https://www.zeppelinhub.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvZjhlZTE1Zjk1MGQ1NDQ4MDg2OTUwMWYyOTkwZWNlYzMvbm90ZS5qc29u) on ZeppelinHub.
+- [View](https://www.zepl.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvZjhlZTE1Zjk1MGQ1NDQ4MDg2OTUwMWYyOTkwZWNlYzMvbm90ZS5qc29u) on ZeppelinHub.
 
 ![image.gif](/images/note02.gif?raw=true)
 
@@ -34,15 +34,15 @@ All the source code in the notebooks is licensed under [Apache License 2.0](http
 
 ### 3. Machine learning on Titanic disaster
 
-- This notebook is intended to show the common steps present in a machine learning problem.
+- This notebook is intended to show a simple machine learning pipeline.
 - [Source code](https://raw.githubusercontent.com/bustios/zeppelin-notebooks/master/notebook-03/note.json) on Github.
-- [View](https://www.zeppelinhub.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvYmI0Y2EwNjVkMTI1NDY2Y2EzNTIzNThiZjViYzIxOWQvbm90ZS5qc29u) on ZeppelinHub.
+- [View](https://www.zepl.com/viewer/notebooks/bm90ZTovL2J1c3Rpb3MvbG9jYWwvYmI0Y2EwNjVkMTI1NDY2Y2EzNTIzNThiZjViYzIxOWQvbm90ZS5qc29u) on ZeppelinHub.
 
 ![image.jpg](/images/note03.jpg?raw=true)
 
 <br>
 
-Additionally to these notebboks, I reported the following issues on Apache JIRA:
+Additionally to these notebboks, I reported the following issues:
 
 - [ZEPPELIN-1244](https://issues.apache.org/jira/browse/ZEPPELIN-1244): %python.sql is not initialized properly by default
 - [ZEPPELIN-1255](https://issues.apache.org/jira/browse/ZEPPELIN-1255): z.show() does not display Pandas DataFrame with non-string values
